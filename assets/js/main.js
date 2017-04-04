@@ -40,7 +40,7 @@
     if(select.value=="todas"){
       mostrar(cuartap);
       mostrar(quintap);
-      ocultar(sextap);
+      mostrar(sextap);
       }
     }
   })
